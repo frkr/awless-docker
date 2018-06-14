@@ -1,0 +1,1 @@
+docker build -t frkr/awless:preview .
